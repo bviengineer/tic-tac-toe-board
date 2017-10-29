@@ -1,0 +1,25 @@
+body {
+    background-color: cadetblue;
+    color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+    padding: 3rem 0 3rem 0;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+td {
+    border-bottom: 5px solid darkorange;
+    border-right: 5px solid crimson;
+    padding: 4rem;
+}
+
+.no-right-border {
+    border-right: none;
+}
+
+.no-bottom-border {
+    border-bottom: none;
+}
