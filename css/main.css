@@ -3,6 +3,12 @@ body {
     color: antiquewhite;
 }
 
+
+table {
+    margin: auto;
+}
+
+
 h1 {
     text-align: center;
     padding: 3rem 0 3rem 0;
